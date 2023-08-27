@@ -1,2 +1,3 @@
-
-This is first push 
+Teach to be used 
+Python 
+Django 
