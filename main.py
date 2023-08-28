@@ -3,9 +3,9 @@ def UpiLInkGenerator(upi_address="don't know yet", price=0, name="unknown"):
     address = upi_address
     cost = price
     nme = name
-    return f"upi://pay?pa={upi_address}&pn={nme}&cu=INR&am={cost}"
+    return f"upi://pay?pa={upi_address}&pn={nme}&cu=INR&tn=entermessage&am={cost}"
 
 
 if __name__ == "__main__":
-    link = UpiLInkGenerator(nupurkaushiknk@oksbi,600,"Nupar")
+    link = UpiLInkGenerator("nupurkaushiknk@oksbi",600,"Nupar")
     print(link)
