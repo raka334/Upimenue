@@ -1,1 +1,3 @@
-upi://pay?pa=dwivedimohit2001-1@oksbi&pn=mohit&cu=INR&tn=tea&am=10
+upi://pay?pa=dwivedimohit2001-1@oksbi&pn=mohit&cu=INR&tn=aman&am=10
+upi://pay?pa=dwivedimohit2001-1@oksbi&pn=mohit&cu=INR&tn=vikki&am=1
+upi://pay?pa=7973203910@upi&pn=mohit&cu=INR&tn=tea&am=10
