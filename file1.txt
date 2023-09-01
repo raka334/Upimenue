@@ -1,0 +1,1 @@
+upi://pay?pa=dwivedimohit2001-1@oksbi&pn=mohit&cu=INR&tn=tea&am=10
